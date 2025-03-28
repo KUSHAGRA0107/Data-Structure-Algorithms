@@ -39,7 +39,7 @@ Welcome to my **Data Structures & Algorithms (DSA) in Java** repository! This se
 ## 📖 How to Use
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/dsa-java.git
+   git clonehttps://github.com/KUSHAGRA0107/Data-Structure-Algorithms
    ```
 2. Navigate to the required topic folder.
 3. Open in your preferred Java IDE.
